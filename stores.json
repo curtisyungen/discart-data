@@ -18,6 +18,7 @@
     },
     "AMAZON": {
         "logo": "https://cdn.honey.io/images/store-logos/1.png",
+        "suggested": true,
         "url": "amazon.com"
     },
     "AMERICAN_EAGLE": {
@@ -633,6 +634,7 @@
     },
     "TARGET": {
         "logo": "https://cdn.honey.io/images/store-logos/185.png",
+        "suggested": true,
         "url": "target.com"
     },
     "TD_BANK": {
@@ -729,6 +731,7 @@
     },
     "WALMART": {
         "logo": "https://cdn.honey.io/images/store-logos/200.png",
+        "suggested": true,
         "url": "walmart.com"
     },
     "WAYFAIR": {
