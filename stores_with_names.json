@@ -1,0 +1,992 @@
+{
+    "ABERCROMBIE": {
+        "logo": "https://cdn.honey.io/images/store-logos/4.png",
+        "url": "abercrombie.com",
+        "name": "Abercrombie"
+    },
+    "ADIDAS": {
+        "logo": "https://cdn.honey.io/images/store-logos/7360533218492451884.png",
+        "url": "adidas.com",
+        "name": "Adidas"
+    },
+    "ALIBABA": {
+        "logo": "https://cdn.honey.io/images/store-logos/347479549515597149.png",
+        "url": "alibaba.com",
+        "name": "Alibaba"
+    },
+    "ALLY": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/ally2.png",
+        "url": "ally.com",
+        "whiteList": true,
+        "name": "Ally"
+    },
+    "AMAZON": {
+        "logo": "https://cdn.honey.io/images/store-logos/1.png",
+        "suggested": true,
+        "url": "amazon.com",
+        "name": "Amazon"
+    },
+    "AMERICAN_EAGLE": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/americaneagle.png",
+        "url": "ae.com",
+        "name": "Ae"
+    },
+    "ANTHROPOLOGIE": {
+        "logo": "https://cdn.honey.io/images/store-logos/16.png",
+        "url": "anthropologie.com",
+        "name": "Anthropologie"
+    },
+    "APPLE": {
+        "logo": "https://cdn.honey.io/images/store-logos/17.png",
+        "url": "apple.com",
+        "name": "Apple"
+    },
+    "ASOS": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/asos.png",
+        "url": "asos.com",
+        "name": "Asos"
+    },
+    "ATHLETA": {
+        "logo": "https://cdn.honey.io/images/store-logos/20.png",
+        "url": "athleta.gap.com",
+        "name": "Athleta"
+    },
+    "BANK_OF_AMERICA": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/bankofamerica.png",
+        "url": "bankofamerica.com",
+        "whiteList": true,
+        "name": "Bank of America"
+    },
+    "BARNES_AND_NOBLE": {
+        "logo": "https://cdn.honey.io/images/store-logos/24.png",
+        "url": "barnesandnoble.com",
+        "name": "Barnes and Noble"
+    },
+    "BASS_PRO": {
+        "logo": "https://cdn.honey.io/images/store-logos/7365577077566123052.png",
+        "url": "basspro.com",
+        "name": "Bass Pro"
+    },
+    "BATH_AND_BODY_WORKS": {
+        "logo": "https://cdn.honey.io/images/store-logos/25.png",
+        "url": "bathandbodyworks.com",
+        "name": "Bath and Body Works"
+    },
+    "BEST_BUY": {
+        "logo": "https://cdn.honey.io/images/store-logos/28.png",
+        "url": "bestbuy.com",
+        "name": "Best Buy"
+    },
+    "BING": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/bing.jpeg",
+        "safeSite": true,
+        "url": "bing.com",
+        "whiteList": true,
+        "name": "Bing"
+    },
+    "BLOOMINGDALES": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/bloomingdales.png",
+        "url": "bloomingdales.com",
+        "name": "Bloomingdales"
+    },
+    "BLUE_NILE": {
+        "logo": "https://ecommo--ion.bluenile.com/bn-main/logo.6b793.svg",
+        "url": "bluenile.com",
+        "name": "Blue Nile"
+    },
+    "BODY_SHOP": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/bodyshop.png",
+        "url": "thebodyshop.com",
+        "name": "The Body Shop"
+    },
+    "BUCKLE": {
+        "logo": "https://cdn.honey.io/images/store-logos/7359670902713726764.png",
+        "url": "buckle.com",
+        "name": "Buckle"
+    },
+    "CALM": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/calm.jpg",
+        "safeSite": true,
+        "url": "calm.com",
+        "whiteList": true,
+        "name": "Calm"
+    },
+    "CAPITAL_ONE": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/capitalone.png",
+        "url": "capitalone.com",
+        "whiteList": true,
+        "name": "Capital One"
+    },
+    "CHANEL": {
+        "logo": "https://cdn.honey.io/images/store-logos/7357418520763268652.png",
+        "url": "chanel.com",
+        "name": "Chanel"
+    },
+    "CHASE": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/chase.png",
+        "url": "chase.com",
+        "whiteList": true,
+        "name": "Chase"
+    },
+    "CHEWY": {
+        "logo": "https://cdn.honey.io/images/store-logos/7512623001795621936.png",
+        "url": "chewy.com",
+        "name": "Chewy"
+    },
+    "CITI": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/citi.png",
+        "url": "citi.com",
+        "whiteList": true,
+        "name": "Citi"
+    },
+    "COACH": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/coach.png",
+        "url": "coach.com",
+        "name": "Coach"
+    },
+    "CONTAINER_STORE": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/containerstore.png",
+        "url": "containerstore.com",
+        "name": "Container Store"
+    },
+    "COOL_MATH_GAMES": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/coolmathgames.jpeg",
+        "url": "coolmathgames.com",
+        "whiteList": true,
+        "name": "Cool Math Games"
+    },
+    "COSTCO": {
+        "logo": "https://cdn.honey.io/images/store-logos/53.png",
+        "url": "costco.com",
+        "name": "Costco"
+    },
+    "COURSERA": {
+        "logo": "https://cdn.honey.io/images/store-logos/7547635819809720368.png",
+        "safeSite": true,
+        "url": "coursera.com",
+        "whiteList": true,
+        "name": "Coursera"
+    },
+    "CRATE_AND_BARREL": {
+        "logo": "https://cdn.honey.io/images/store-logos/54.png",
+        "url": "crateandbarrel.com",
+        "name": "Crate and Barrel"
+    },
+    "CVS": {
+        "logo": "https://cdn.honey.io/images/store-logos/7422251010108067594.png",
+        "url": "cvs.com",
+        "name": "CVS"
+    },
+    "DELL": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/dell.png",
+        "url": "dell.com",
+        "name": "Dell"
+    },
+    "DICKS_SPORTING_GOODS": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/dickssportinggoods.jpeg",
+        "url": "dickssportinggoods.com",
+        "name": "Dick's Sporting Goods"
+    },
+    "DIOR": {
+        "logo": "https://cdn.honey.io/images/store-logos/7359600933948231468.png",
+        "url": "dior.com",
+        "name": "Dior"
+    },
+    "DISCORD": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/discord.png",
+        "url": "discord.com",
+        "whiteList": true,
+        "name": "Discord"
+    },
+    "DISCOVER": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/discover.png",
+        "url": "discover.com",
+        "whiteList": true,
+        "name": "Discover"
+    },
+    "DISNEY_PLUS": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/disneyplus.png",
+        "url": "disneyplus.com",
+        "whiteList": true,
+        "name": "Disney Plus"
+    },
+    "DOOR_DASH": {
+        "logo": "https://cdn.honey.io/images/store-logos/108617813463436832.png",
+        "url": "doordash.com",
+        "name": "Doordash"
+    },
+    "DSW": {
+        "logo": "https://cdn.honey.io/images/store-logos/65.png",
+        "url": "dsw.com",
+        "name": "Dsw"
+    },
+    "DUCK_DUCK_GO": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/duckduckgo.png",
+        "url": "duckduckgo.com",
+        "whiteList": true,
+        "name": "Duck Duck Go"
+    },
+    "DUOLINGO": {
+        "logo": "https://cdn.honey.io/images/store-logos/412319158929205489.png",
+        "url": "duolingo.com",
+        "safeSite": true,
+        "whiteList": true,
+        "name": "Duolingo"
+    },
+    "EBAY": {
+        "logo": "https://cdn.honey.io/images/store-logos/7357363250899199020.png",
+        "url": "ebay.com",
+        "name": "Ebay"
+    },
+    "ELF_COSMETICS": {
+        "logo": "https://cdn.honey.io/images/store-logos/76.png",
+        "url": "elfcosmetics.com",
+        "name": "Elf Cosmetics"
+    },
+    "ETSY": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/etsy.jpeg",
+        "url": "etsy.com",
+        "name": "Etsy"
+    },
+    "EVENT_BRITE": {
+        "logo": "https://cdn.honey.io/images/store-logos/211959502956620338.png",
+        "url": "eventbrite.com",
+        "name": "Eventbrite"
+    },
+    "FABLETICS": {
+        "logo": "https://cdn.honey.io/images/store-logos/7359908171204374316.png",
+        "url": "fabletics.com",
+        "name": "Fabletics"
+    },
+    "FACEBOOK": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/facebook.png",
+        "url": "facebook.com",
+        "whiteList": true,
+        "name": "Facebook"
+    },
+    "FAMOUS_FOOTWEAR": {
+        "logo": "https://cdn.honey.io/images/store-logos/7394091033879259760.png",
+        "url": "famousfootwear.com",
+        "name": "Famous Footwear"
+    },
+    "FARFETCH": {
+        "logo": "https://cdn.honey.io/images/store-logos/253887383496824059.png",
+        "url": "farfetch.com",
+        "name": "Farfetch"
+    },
+    "FINISH_LINE": {
+        "logo": "https://cdn.honey.io/images/store-logos/82.png",
+        "url": "finishline.com",
+        "name": "Finishline"
+    },
+    "FOOT_LOCKER": {
+        "logo": "https://cdn.honey.io/images/store-logos/7357366402159382572.png",
+        "url": "footlocker.com",
+        "name": "Foot Locker"
+    },
+    "FOREVER_21": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/forever21.png",
+        "url": "forever21.com",
+        "name": "Forever 21"
+    },
+    "FREE_RICE": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/freerice3.png",
+        "safeSite": true,
+        "url": "freerice.com",
+        "whiteList": true,
+        "name": "Freerice"
+    },
+    "GAME_STOP": {
+        "logo": "https://cdn.honey.io/images/store-logos/90.png",
+        "url": "gamestop.com",
+        "name": "GameStop"
+    },
+    "GAP": {
+        "logo": "https://cdn.honey.io/images/store-logos/91.png",
+        "url": "gap.com",
+        "name": "Gap"
+    },
+    "GOOGLE": {
+        "logo": "https://cdn.honey.io/images/store-logos/122524064430060484.png",
+        "safeSite": true,
+        "url": "google.com",
+        "whiteList": true,
+        "name": "Google"
+    },
+    "GMAIL": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/gmail.png",
+        "url": "gmail.com",
+        "whiteList": true,
+        "name": "Gmail"
+    },
+    "GROUPON": {
+        "logo": "https://cdn.honey.io/images/store-logos/7394091724507865200.png",
+        "url": "groupon.com",
+        "name": "Groupon"
+    },
+    "GRUBHUB": {
+        "logo": "https://cdn.honey.io/images/store-logos/7422251015948429578.png",
+        "url": "grubhub.com",
+        "name": "Grubhub"
+    },
+    "GUCCI": {
+        "logo": "https://cdn.honey.io/images/store-logos/7359918660897849388.png",
+        "url": "gucci.com",
+        "name": "Gucci"
+    },
+    "HM": {
+        "logo": "https://cdn.honey.io/images/store-logos/97.png",
+        "url": "hm.com",
+        "name": "Hm"
+    },
+    "HOBBY_LOBBY": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/hobbylobby.png",
+        "url": "hobbylobby.com",
+        "name": "Hobby Lobby"
+    },
+    "HOME_DEPOT": {
+        "logo": "https://cdn.honey.io/images/store-logos/98.png",
+        "url": "homedepot.com",
+        "name": "Home Depot"
+    },
+    "HOT_TOPIC": {
+        "logo": "https://cdn.honey.io/images/store-logos/7359702628025798444.png",
+        "url": "hottopic.com",
+        "name": "Hot Topic"
+    },
+    "HP": {
+        "logo": "https://cdn.honey.io/images/store-logos/1002.png",
+        "url": "hp.com",
+        "name": "HP"
+    },
+    "HULU": {
+        "logo": "https://cdn.honey.io/images/store-logos/139422616154066662.png",
+        "url": "hulu.com",
+        "whiteList": true,
+        "name": "Hulu"
+    },
+    "IKEA": {
+        "logo": "https://cdn.honey.io/images/store-logos/7359639574201792556.png",
+        "url": "ikea.com",
+        "name": "Ikea"
+    },
+    "INSTACART": {
+        "logo": "https://cdn.honey.io/images/store-logos/7555283535150963150.png",
+        "url": "instacart.com",
+        "name": "Instacart"
+    },
+    "INSTAGRAM": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/instagram.png",
+        "url": "instagram.com",
+        "whiteList": true,
+        "name": "Instagram"
+    },
+    "JC_PENNY": {
+        "logo": "https://cdn.honey.io/images/store-logos/102.png",
+        "url": "jcpenney.com",
+        "name": "JCPenney"
+    },
+    "J_CREW": {
+        "logo": "https://cdn.honey.io/images/store-logos/103.png",
+        "url": "jcrew.com",
+        "name": "JCrew"
+    },
+    "JOANN": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/joann.jpeg",
+        "url": "joann.com",
+        "name": "Joann"
+    },
+    "KOHLS": {
+        "logo": "https://cdn.honey.io/images/store-logos/112.png",
+        "url": "kohls.com",
+        "name": "Kohls"
+    },
+    "LEGO": {
+        "logo": "https://cdn.honey.io/images/store-logos/114.png",
+        "url": "lego.com",
+        "name": "Lego"
+    },
+    "LENOVO": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/lenovo.png",
+        "url": "lenovo.com",
+        "name": "Lenovo"
+    },
+    "LEVIS": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/levis.png",
+        "url": "levis.com",
+        "name": "Levis"
+    },
+    "LIDS": {
+        "logo": "https://cdn.honey.io/images/store-logos/7359068501954129196.png",
+        "url": "lids.com",
+        "name": "Lids"
+    },
+    "LINKEDIN": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/linkedin.png",
+        "url": "linkedin.com",
+        "whiteList": true,
+        "name": "LinkedIn"
+    },
+    "LL_BEAN": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/llbean.jpeg",
+        "url": "llbean.com",
+        "name": "L.L. Bean"
+    },
+    "LOWES": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/lowes.png",
+        "url": "lowes.com",
+        "name": "Lowes"
+    },
+    "LULU_LEMON": {
+        "logo": "https://cdn.honey.io/images/store-logos/118.png",
+        "url": "shop.lululemon.com/",
+        "name": "Shop"
+    },
+    "MACYS": {
+        "logo": "https://cdn.honey.io/images/store-logos/120.png",
+        "url": "macys.com",
+        "name": "Macys"
+    },
+    "MARSHALLS": {
+        "logo": "https://cdn.honey.io/images/store-logos/270005445226118012.png",
+        "url": "marshalls.com",
+        "name": "Marshalls"
+    },
+    "MICHAELS": {
+        "logo": "https://cdn.honey.io/images/store-logos/7361108888116942124.png",
+        "url": "michaels.com",
+        "name": "Michaels"
+    },
+    "MICHAEL_KORS": {
+        "logo": "https://cdn.honey.io/images/store-logos/7359190499365489964.png",
+        "url": "michaelkors.com",
+        "name": "Michael Kors"
+    },
+    "MICROSOFT": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/microsoft.png",
+        "url": "microsoft.com",
+        "name": "Microsoft"
+    },
+    "MR_PORTER": {
+        "logo": "https://cdn.honey.io/images/store-logos/7359107100243691564.png",
+        "url": "mrporter.com",
+        "name": "Mr. Porter"
+    },
+    "MY_THERESA": {
+        "logo": "https://cdn.honey.io/images/store-logos/7357367622403109676.png",
+        "url": "mytheresa.com",
+        "name": "My Theresa"
+    },
+    "NATIONAL_GEOGRAPHIC": {
+        "logo": "https://cdn.honey.io/images/store-logos/330213071678656276.png",
+        "safeSite": true,
+        "url": "nationalgeographic.com",
+        "whiteList": true,
+        "name": "National Geographic"
+    },
+    "NBA": {
+        "logo": "https://cdn.honey.io/images/store-logos/7394093641519709552.png",
+        "url": "store.nba.com/",
+        "name": "NBA Store"
+    },
+    "NETFLIX": {
+        "logo": "https://cdn.honey.io/images/store-logos/352426170164358338.png",
+        "url": "netflix.com",
+        "whiteList": true,
+        "name": "Netflix"
+    },
+    "NEWEGG": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/newegg.jpeg",
+        "url": "newegg.com",
+        "name": "Newegg"
+    },
+    "NEW_BALANCE": {
+        "logo": "https://cdn.honey.io/images/store-logos/7520611255247181591.png",
+        "url": "newbalance.com",
+        "name": "New Balance"
+    },
+    "NEW_YORK_TIMES": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/nytimes.png",
+        "url": "nytimes.com",
+        "whiteList": true,
+        "name": "NY Times"
+    },
+    "NIKE": {
+        "logo": "https://cdn.honey.io/images/store-logos/7359188627743309100.png",
+        "url": "nike.com",
+        "name": "Nike"
+    },
+    "NORDSTROM": {
+        "logo": "https://cdn.honey.io/images/store-logos/133.png",
+        "url": "nordstrom.com",
+        "name": "Nordstrom"
+    },
+    "NORDSTROM_RACK": {
+        "logo": "https://cdn.honey.io/images/store-logos/7360519744347385388.png",
+        "url": "nordstromrack.com",
+        "name": "Nordstrom Rack"
+    },
+    "OLD_NAVY": {
+        "logo": "https://cdn.honey.io/images/store-logos/7359076077111276588.png",
+        "url": "oldnavy.gap.com",
+        "name": "Old Navy"
+    },
+    "ON": {
+        "logo": "https://cdn.honey.io/images/store-logos/1000302.png",
+        "url": "on.com",
+        "name": "On"
+    },
+    "OUTLOOK": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/outlook.jpeg",
+        "url": "outlook.live.com",
+        "whiteList": true,
+        "name": "Outlook"
+    },
+    "OUTWORK": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/screenshots/master/outwork/images/logo.png",
+        "url": "outwork-cjy.herokuapp.com",
+        "whiteList": true,
+        "name": "Outwork"
+    },
+    "OVERSTOCK": {
+        "logo": "https://cdn.honey.io/images/store-logos/139.png",
+        "url": "overstock.com",
+        "name": "Overstock"
+    },
+    "PACSUN": {
+        "logo": "https://cdn.honey.io/images/store-logos/141.png",
+        "url": "pacsun.com",
+        "name": "Pacsun"
+    },
+    "PATAGONIA": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/patagonia.jpeg",
+        "url": "patagonia.com",
+        "name": "Patagonia"
+    },
+    "PAYPAL": {
+        "logo": "https://cdn.honey.io/images/store-logos/185226930809482394.png",
+        "url": "paypal.com",
+        "whiteList": true,
+        "name": "Paypal"
+    },
+    "PETCO": {
+        "logo": "https://cdn.honey.io/images/store-logos/7361560904771601452.png",
+        "url": "petco.com",
+        "name": "Petco"
+    },
+    "PETSMART": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/petsmart.png",
+        "url": "petsmart.com",
+        "name": "Petsmart"
+    },
+    "PGE": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/pge.png",
+        "url": "pge.com",
+        "whiteList": true,
+        "name": "PGE"
+    },
+    "PIER1": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/pier1.jpeg",
+        "url": "pier1.com",
+        "name": "Pier 1 Imports"
+    },
+    "PINTEREST": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/pinterest.png",
+        "url": "pinterest.com",
+        "whiteList": true,
+        "name": "Pinterest"
+    },
+    "POSHMARK": {
+        "logo": "https://cdn.honey.io/images/store-logos/59279076666048192.png",
+        "url": "poshmark.com",
+        "name": "Poshmark"
+    },
+    "POTTERY_BARN": {
+        "logo": "https://cdn.honey.io/images/store-logos/107716608132582710.png",
+        "url": "potterybarn.com",
+        "name": "Potterybarn"
+    },
+    "PRADA": {
+        "logo": "https://cdn.honey.io/images/store-logos/7361624617515036460.png",
+        "url": "prada.com",
+        "name": "Prada"
+    },
+    "PROJECT_GUTENBURG": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/project_gutenburg.png",
+        "safeSite": true,
+        "url": "gutenberg.org",
+        "whiteList": true,
+        "name": "Gutenberg"
+    },
+    "PROTON_MAIL": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/protonmail.jpeg",
+        "url": "proton.me",
+        "whiteList": true,
+        "name": "ProtonMail"
+    },
+    "PUMA": {
+        "logo": "https://cdn.honey.io/images/store-logos/7394094454512029552.png",
+        "url": "puma.com",
+        "name": "Puma"
+    },
+    "QUORA": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/quora.png",
+        "url": "quora.com",
+        "whiteList": true,
+        "name": "Quora"
+    },
+    "QVC": {
+        "logo": "https://cdn.honey.io/images/store-logos/7359087836479745068.png",
+        "url": "qvc.com",
+        "name": "Qvc"
+    },
+    "REDDIT": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/reddit.jpeg",
+        "safeSite": true,
+        "url": "reddit.com",
+        "whiteList": true,
+        "name": "Reddit"
+    },
+    "REEBOK": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/reebok.png",
+        "url": "reebok.com",
+        "name": "Reebok"
+    },
+    "REFORMATION": {
+        "logo": "https://cdn.honey.io/images/store-logos/7366636379017351212.png",
+        "url": "thereformation.com",
+        "name": "The Reformation"
+    },
+    "REI": {
+        "logo": "https://cdn.honey.io/images/store-logos/7361535806794240300.png",
+        "url": "rei.com",
+        "name": "REI"
+    },
+    "REUTERS": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/reuters.jpeg",
+        "url": "reuters.com",
+        "whiteList": true,
+        "name": "Reuters"
+    },
+    "ROBLOX": {
+        "logo": "https://cdn.honey.io/images/store-logos/228778394987436992.png",
+        "url": "roblox.com",
+        "name": "Roblox"
+    },
+    "SAFEWAY": {
+        "logo": "https://cdn.honey.io/images/store-logos/7394094739976823920.png",
+        "url": "safeway.com",
+        "name": "Safeway"
+    },
+    "SAKS_FIFTH_AVE": {
+        "logo": "https://cdn.honey.io/images/store-logos/158.png",
+        "url": "saksfifthavenue.com",
+        "name": "Saks Fifth Avenue"
+    },
+    "SAKS_OFF_FIFTH": {
+        "logo": "https://cdn.honey.io/images/store-logos/7365406029279843116.png",
+        "url": "saksoff5th.com",
+        "name": "Saks Off 5th"
+    },
+    "SAMS_CLUB": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/samsclub.png",
+        "url": "samsclub.com",
+        "name": "Sam's Club"
+    },
+    "SAMSUNG": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/samsung.png",
+        "url": "samsung.com",
+        "name": "Samsung"
+    },
+    "SEARS": {
+        "logo": "https://cdn.honey.io/images/store-logos/7359750247563232556.png",
+        "url": "sears.com",
+        "name": "Sears"
+    },
+    "SEPHORA": {
+        "logo": "https://cdn.honey.io/images/store-logos/163.png",
+        "url": "sephora.com",
+        "name": "Sephora"
+    },
+    "SHAREPOINT": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/sharepoint.jpeg",
+        "url": "sharepoint.com",
+        "whiteList": true,
+        "name": "Sharepoint"
+    },
+    "SHEIN": {
+        "logo": "https://cdn.honey.io/images/store-logos/7359721089418819116.png",
+        "url": "shein.com",
+        "name": "Shein"
+    },
+    "SHOE_PALACE": {
+        "logo": "https://cdn.honey.io/images/store-logos/61955955861632430.png",
+        "url": "shoepalace.com",
+        "name": "Shoe Palace"
+    },
+    "SHOPIFY": {
+        "logo": "https://cdn.honey.io/images/store-logos/7360676928657335852.png",
+        "url": "shopify.com",
+        "name": "Shopify"
+    },
+    "SOFT_MURMUR": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/softmurmur.png",
+        "safeSite": true,
+        "url": "asoftmurmur.com",
+        "whiteList": true,
+        "name": "Asoftmurmur"
+    },
+    "SPOTIFY": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/spotify.png",
+        "url": "spotify.com",
+        "whiteList": true,
+        "name": "Spotify"
+    },
+    "STACK_OVERFLOW": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/stackoverflow.png",
+        "url": "stackoverflow.com",
+        "whiteList": true,
+        "name": "Stack Overflow"
+    },
+    "STAPLES": {
+        "logo": "https://cdn.honey.io/images/store-logos/177.png",
+        "url": "staples.com",
+        "name": "Staples"
+    },
+    "STEAM": {
+        "logo": "https://cdn.honey.io/images/store-logos/133238312198527675.png",
+        "url": "store.steampowered.com",
+        "name": "Store"
+    },
+    "STOCK_X": {
+        "logo": "https://cdn.honey.io/images/store-logos/149866213425254294.png",
+        "url": "stockx.com",
+        "name": "StockX"
+    },
+    "STUBHUB": {
+        "logo": "https://cdn.honey.io/images/store-logos/7360546765320569132.png",
+        "url": "stubhub.com",
+        "name": "Stubhub"
+    },
+    "SWEET_WATER": {
+        "logo": "https://cdn.honey.io/images/store-logos/181.png",
+        "url": "sweetwater.com",
+        "name": "Sweetwater"
+    },
+    "TAOBAO": {
+        "logo": "https://cdn.honey.io/images/store-logos/7368299332058401324.png",
+        "url": "taobao.com",
+        "name": "Taobao"
+    },
+    "TARGET": {
+        "logo": "https://cdn.honey.io/images/store-logos/185.png",
+        "suggested": true,
+        "url": "target.com",
+        "name": "Target"
+    },
+    "TD_BANK": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/tdbank.png",
+        "url": "td.com",
+        "whiteList": true,
+        "name": "TD Bank"
+    },
+    "TEMU": {
+        "logo": "https://cdn.honey.io/images/store-logos/459685887096746335.png",
+        "url": "temu.com",
+        "name": "Temu"
+    },
+    "THE_OUTNET": {
+        "logo": "https://cdn.honey.io/images/store-logos/7359068121558599212.png",
+        "url": "theoutnet.com",
+        "name": "The Outnet"
+    },
+    "THEORY": {
+        "logo": "https://cdn.honey.io/images/store-logos/189.png",
+        "url": "theory.com",
+        "name": "Theory"
+    },
+    "TICKETMASTER": {
+        "logo": "https://cdn.honey.io/images/store-logos/7515812765913808590.png",
+        "url": "ticketmaster.com",
+        "name": "Ticketmaster"
+    },
+    "TIFFANY": {
+        "logo": "https://cdn.honey.io/images/store-logos/7360895037795801900.png",
+        "url": "tiffany.com",
+        "name": "Tiffany"
+    },
+    "TIMBERLAND": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/timberland.png",
+        "url": "timberland.com",
+        "name": "Timberland"
+    },
+    "TJ_MAXX": {
+        "logo": "https://cdn.honey.io/images/store-logos/7555272277853494990.png",
+        "url": "tjmaxx.tjx.com",
+        "name": "TJ Maxx"
+    },
+    "TWITCH": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/twitch.png",
+        "url": "twitch.tv",
+        "whiteList": true,
+        "name": "Twitch"
+    },
+    "TWITTER": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/twitter.jpg",
+        "url": "twitter.com",
+        "whiteList": true,
+        "name": "Twitter"
+    },
+    "UBER_EATS": {
+        "logo": "https://cdn.honey.io/images/store-logos/159557125710918229.png",
+        "url": "ubereats.com",
+        "name": "Uber Eats"
+    },
+    "ULTA": {
+        "logo": "https://cdn.honey.io/images/store-logos/7357383677827636780.png",
+        "url": "ulta.com",
+        "name": "Ulta"
+    },
+    "UNDER_ARMOUR": {
+        "logo": "https://cdn.honey.io/images/store-logos/7359074908449364012.png",
+        "url": "underarmour.com",
+        "name": "Under Armour"
+    },
+    "UNIQLO": {
+        "logo": "https://cdn.honey.io/images/store-logos/7359910843698740012.png",
+        "url": "uniqlo.com",
+        "name": "Uniqlo"
+    },
+    "URBAN_OUTFITTERS": {
+        "logo": "https://cdn.honey.io/images/store-logos/196.png",
+        "url": "urbanoutfitters.com",
+        "name": "Urban Outfitters"
+    },
+    "US_BANK": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/usbank.png",
+        "url": "usbank.com",
+        "whiteList": true,
+        "name": "US Bank"
+    },
+    "USELESS_WEB": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/uselessweb2.png",
+        "safeSite": true,
+        "url": "theuselessweb.com",
+        "whiteList": true,
+        "name": "Theuselessweb"
+    },
+    "VIMEO": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/vimeo.png",
+        "url": "vimeo.com",
+        "whiteList": true,
+        "name": "Vimeo"
+    },
+    "VUORI": {
+        "logo": "https://cdn.honey.io/images/store-logos/79059549890123591.png",
+        "url": "vuoriclothing.com",
+        "name": "Vuori"
+    },
+    "WALGREENS": {
+        "logo": "https://cdn.honey.io/images/store-logos/7365818483812310316.png",
+        "url": "walgreens.com",
+        "name": "Walgreens"
+    },
+    "WALL_STREET_JOURNAL": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/wsj.png",
+        "url": "wsj.com",
+        "whiteList": true,
+        "name": "Wall Street Journal"
+    },
+    "WALMART": {
+        "logo": "https://cdn.honey.io/images/store-logos/200.png",
+        "suggested": true,
+        "url": "walmart.com",
+        "name": "Walmart"
+    },
+    "WAYFAIR": {
+        "logo": "https://cdn.honey.io/images/store-logos/201.png",
+        "url": "wayfair.com",
+        "name": "Wayfair"
+    },
+    "WEATHER_CHANNEL": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/weatherchannel.png",
+        "url": "weather.com",
+        "whiteList": true,
+        "name": "Weather"
+    },
+    "WELLS_FARGO": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/wellsfargo.png",
+        "url": "wellsfargo.com",
+        "whiteList": true,
+        "name": "Wells Fargo"
+    },
+    "WEST_ELM": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/westelm.jpeg",
+        "url": "westelm.com",
+        "name": "West Elm"
+    },
+    "WIKIPEDIA": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/wikipedia.png",
+        "safeSite": true,
+        "url": "wikipedia.com",
+        "whiteList": true,
+        "name": "Wikipedia"
+    },
+    "WILLIAMS_SONOMA": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/williamssonoma.png",
+        "url": "williams-sonoma.com",
+        "name": "Williams Sonoma"
+    },
+    "WISH": {
+        "logo": "https://cdn.honey.io/images/store-logos/132342871171974134.png",
+        "url": "wish.com",
+        "name": "Wish"
+    },
+    "WOOT": {
+        "logo": "https://cdn.honey.io/images/store-logos/7394096567093985904.png",
+        "url": "woot.com",
+        "name": "Woot"
+    },
+    "WORLD_MARKET": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/worldmarket.jpeg",
+        "url": "worldmarket.com",
+        "name": "World Market"
+    },
+    "YAHOO": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/yahoo.png",
+        "url": "yahoo.com",
+        "name": "Yahoo"
+    },
+    "YETI": {
+        "logo": "https://cdn.honey.io/images/store-logos/7480690909648097553.png",
+        "url": "yeti.com",
+        "name": "Yeti"
+    },
+    "YOOX": {
+        "logo": "https://cdn.honey.io/images/store-logos/213.png",
+        "url": "yoox.com",
+        "name": "Yoox"
+    },
+    "YOUTUBE": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/youtube.png",
+        "url": "youtube.com",
+        "whiteList": true,
+        "name": "Youtube"
+    },
+    "ZAPPOS": {
+        "logo": "https://cdn.honey.io/images/store-logos/215.png",
+        "url": "zappos.com",
+        "name": "Zappos"
+    },
+    "ZARA": {
+        "logo": "https://cdn.honey.io/images/store-logos/7357416199573265452.png",
+        "url": "zara.com",
+        "name": "Zara"
+    },
+    "ZOOM": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/zoom.jpeg",
+        "url": "zoom.us",
+        "whiteList": true,
+        "name": "Zoom"
+    }
+}
