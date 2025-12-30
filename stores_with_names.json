@@ -947,6 +947,11 @@
         "url": "woot.com",
         "name": "Woot"
     },
+    "WOOT_2": {
+        "logo": "https://cdn.honey.io/images/store-logos/7394096567093985904.png",
+        "url": "computers.woot.com",
+        "name": "Woot"
+    },
     "WORLD_MARKET": {
         "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/worldmarket.jpeg",
         "url": "worldmarket.com",
