@@ -467,6 +467,11 @@
         "url": "microsoft.com",
         "name": "Microsoft"
     },
+    "MOMA": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/moma.png",
+        "url": "moma.org",
+        "name": "Museum of Modern Art"
+    },
     "MR_PORTER": {
         "logo": "https://cdn.honey.io/images/store-logos/7359107100243691564.png",
         "url": "mrporter.com",
@@ -628,6 +633,11 @@
         "logo": "https://cdn.honey.io/images/store-logos/7394094454512029552.png",
         "url": "puma.com",
         "name": "Puma"
+    },
+    "RAY_BAN": {
+        "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/ray-ban.png",
+        "url": "ray-ban.com",
+        "name": "Ray Ban"
     },
     "QUORA": {
         "logo": "https://raw.githubusercontent.com/curtisyungen/discart-images/refs/heads/master/companyLogos/quora.png",
